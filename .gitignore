@@ -46,4 +46,3 @@ secrets.json
 secrets.yaml
 service-account*.json
 token.json
-CLAUDE.md
